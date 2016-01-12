@@ -3,7 +3,7 @@ class Libimobiledevice < Formula
   desc "Library to communicate with iOS devices natively"
   homepage "http://www.libimobiledevice.org/"
   url "https://github.com/liuyuqiang/brew_custom/raw/master/bottles/libimobiledevice-1.2.0.el_capitan.bottle.tar.gz"
-  sha256 "0d37a1ba48e5e0fdb192a6a1945851a3018b75a05d68fca66ea0dd8aeb61a6f4"
+  sha256 "43ddf71acc0896c47dfdebfb61d803b1b6299997366492f3ca12cb4a3549f133"
 
   head do
     url "http://git.sukimashita.com/libimobiledevice.git"
